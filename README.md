@@ -1,8 +1,1 @@
-             ___             _ _  __      
- _ __  _ __ / _ \__  ___   _| (_)/ _| ___ 
-| '_ \| '__| | | \ \/ / | | | | | |_ / _ \
-| |_) | |  | |_| |>  <| |_| | | |  _|  __/
-| .__/|_|   \___//_/\_\\__, |_|_|_|  \___|
-|_|                    |___/                                   
-
-Incident Response & Malware Hunter - IOC Collection - @pr0xylife 
+Incident Response & Malware Hunter - IOC Collection - @pr0xylife
