@@ -10,4 +10,4 @@
 88                                                        d8'                                  
 88                                                       d8'                                  
 
-Incident Response & Malware Hunter - IOC Collection - @pr0xylife
+Incident Response & Malware Hunter - IOC Collection - @pr0xylife 
