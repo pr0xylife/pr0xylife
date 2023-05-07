@@ -4,4 +4,4 @@ IOC Collection - @pr0xylife
 
 Samples can found be here 👇
 
-https://bazaar.abuse.ch/user/1413258196500815881/
+https://bazaar.abuse.ch/user/3331/
